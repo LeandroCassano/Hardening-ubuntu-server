@@ -1,5 +1,5 @@
 
-Primero que nada, vamos a hacer un repaso teórico sobre los distintos tipos de firewalls y la importancia de los mismos. Si el caso de la visita es la implementación y configuración pueden saltear al siguiente archivo donde empieza la guía practica. ##(colocado a modo de comentario en cursiva o en algún tono mas camuflado con el fondo negro de github)
+Primero que nada, vamos a hacer un repaso teórico sobre los distintos tipos de firewalls y la importancia de los mismos. Si el caso de la visita es la implementación y configuración pueden saltear al siguiente archivo donde empieza la guía practica. 
 
 <h1> Firewalls </h1>
 
