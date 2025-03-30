@@ -40,8 +40,8 @@ Es exageradamente seguro y da cierta capa de anonimato, oculta la verdadera red 
 El famoso Web Application Firewall (WAF)
 
 El WAF está diseñado específicamente para proteger aplicaciones web. Se enfoca en inspeccionar las solicitudes HTTP/HTTPS para detectar y bloquear amenazas comunes, como inyección SQL, Cross-Site Scripting (XSS) y ataques de denegación de servicio (DoS).
-Protege directamente las aplicaciones web de vulnerabilidades específicas. Pero deja de proteger otras partes de la infraestructura, solo las aplicaciones web.
-Como se explica deja cubiertos únicamente servicios web
+Protege directamente las aplicaciones web de vulnerabilidades específicas. Pero deja de proteger otras partes de la infraestructura
+Como se explica deja cubiertos únicamente servicios web.
 ________________________________________
 
 
