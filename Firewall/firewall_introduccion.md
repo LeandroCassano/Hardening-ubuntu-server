@@ -17,4 +17,6 @@ Configurar correctamente un firewall es esencial para minimizar los riesgos de a
 Para los usuarios domésticos, el uso de firewalls proporciona una capa adicional de seguridad frente a ataques cibernéticos, como intrusiones o malware, y permite un control más estricto sobre el tráfico de la red. En ambos casos, comprender cómo funcionan y cómo configurar adecuadamente los firewalls es una habilidad esencial para proteger la infraestructura y los datos personales.
 
 <hr>
-    &#x1F50D;     En esta guía, exploraremos desde conceptos básicos hasta configuraciones avanzadas en Ubuntu Server, utilizando herramientas como UFW (Uncomplicated Firewall), iptables y nftables. También abordaremos la gestión de logs, detección de intrusiones y configuraciones específicas para distintos tipos de servidores.
+
+    
+&#x1F50D;     En esta guía, exploraremos desde conceptos básicos hasta configuraciones avanzadas en Ubuntu Server, utilizando herramientas como UFW (Uncomplicated Firewall), iptables y nftables. También abordaremos la gestión de logs, detección de intrusiones y configuraciones específicas para distintos tipos de servidores.
